@@ -11,7 +11,7 @@ version: 1.0 2020-12-10 */
 
 body {            
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    min-width: 300px;    
+    min-width: 320px;    
 }
 
 /* Contenedor general centrado. También puede incluirse dentro de sí mismo */
